@@ -1,2 +1,2 @@
 # og-snake-game
-A super basic OG snake game, coded in Python. Demonstrates a knowledge of Python, OOP, debugging, project planning, and backend scripting
+This is a very basic OG snake game (based on the coding course "100 Days of Code" on Udemy). While simple, this project shows a basic working knoweldge of Python coding, OOP programming, structing code, debugging, and backend scripting. 
